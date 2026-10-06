@@ -1,0 +1,9 @@
+{
+  "course_name": "Java Backend Development",
+  "certificate_date": "2026-10-06",
+  "recipients": [
+    {"name": "Himanshu Nishant", "email": "himanshu@example.com"},
+    {"name": "Aarav Sharma", "email": "aarav@example.com"},
+    {"name": "Invalid Example", "email": "invalid-email"}
+  ]
+}
